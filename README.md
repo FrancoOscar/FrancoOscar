@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋,  I'm Oscar Franco</h1>
-<h3 align="center">A CS student from UIC</h3>
+<h3 align="center">Currently a CS student from UIC working on a bachelors</h3>
 
-- 📫 How to reach me **o_franco@icloud.com**
+- 📫 email **o_franco@icloud.com**
+- 💼 LinkedIn: **www.linkedin.com/in/oscar-franco-991885262**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
