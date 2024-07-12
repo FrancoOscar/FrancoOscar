@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Franco</h1>
+<h1 align="center">Hi 👋,  I'm Oscar Franco</h1>
 <h3 align="center">A CS student from UIC</h3>
 
 - 📫 How to reach me **o_franco@icloud.com**
