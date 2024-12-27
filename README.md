@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Oscar Franco</h1>
-<h3 align="center">Currently a CS student from UIC working on a bachelors</h3>
+<h3 align="center">CS Graduate from The University of Illinois Chicago</h3>
 
 - 📫 email **o_franco@icloud.com**
 - 💼 LinkedIn: **www.linkedin.com/in/oscar-franco-991885262**
